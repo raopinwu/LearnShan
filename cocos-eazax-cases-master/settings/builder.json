@@ -1,0 +1,72 @@
+{
+  "title": "eazax-cases",
+  "packageName": "org.cocos2d.demo",
+  "startScene": "c96a7da9-0270-4350-9dc3-15efc23eb456",
+  "excludeScenes": [
+    "461cd5ee-de1a-49c8-8f60-ea0de42a0000",
+    "ced50de4-5b97-432a-9939-1254afb01463",
+    "155920ae-cb07-4530-92c7-5a6fa5e73625",
+    "563dbd94-a9bf-41ab-978f-33568213f045",
+    "13f9e3bb-2525-47c9-a28b-7804ef4b3e86",
+    "1ae32faf-0adb-49e0-a815-a3d38004b757",
+    "f2aedc24-d250-45f4-8f75-b244a9f7356c",
+    "8c611eee-0d59-4ef0-8a9c-a6e677394569",
+    "24358a1d-b10a-4aa8-bf6d-b5559b2567bf",
+    "4e41533a-e563-407f-8aeb-ae3e187bd50d",
+    "d586dc35-e526-4b97-a72c-8533d2f579e1",
+    "f025f937-3cd9-4434-8675-0a07f9ac562a",
+    "ae2a60f5-b05b-4fa5-8091-d59ee8d509a1",
+    "00534e26-6cf1-448a-b303-6c239d3f6b0a"
+  ],
+  "includeSDKBox": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "webOrientation": "portrait",
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "md5Cache": true,
+  "encryptJs": false,
+  "xxteaKey": "29ac1eeb-c0d7-4d",
+  "zipCompressJs": true,
+  "fb-instant-games": {},
+  "android": {
+    "REMOTE_SERVER_ROOT": "",
+    "packageName": "com.ifaswind.eazaxcases"
+  },
+  "ios": {
+    "REMOTE_SERVER_ROOT": "",
+    "ios_enable_jit": true,
+    "packageName": "org.cocos2d.demo"
+  },
+  "mac": {
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "packageName": "org.cocos2d.demo",
+    "width": 1280
+  },
+  "win32": {
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "width": 1280
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.demo",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false,
+  "mainCompressionType": "default",
+  "mainIsRemote": false,
+  "nativeMd5Cache": true,
+  "agreements": {}
+}
